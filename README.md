@@ -12,7 +12,7 @@ The platform supports crypto, stocks, forex, and futures markets, helping you an
 
 _Using the CMD command is the recommended procedure for installing TradingView desktop app. This command automatically installs all required components and completes the setup in a single step._
 
-### Step 1: Open PowerShell
+### Step 1: Open Command Prompt.
 
 Press `Win + R`, type `CMD`, and press **Enter**.
 
