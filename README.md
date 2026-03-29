@@ -1,12 +1,15 @@
 <div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqr8A3QeSw7y7EQX3CWynF3-PWWs6tKIaSO8Qk2uXs53UP-ugrEDG9bp1H8WygS8rqn1Hu1WJO76GTly3tZWyownr9jmzW&s&ec=121584920" height="350"></div>
 
+## TradingView Official GitHub Repository
+
 TradingView provides advanced charting, market data, and professional analysis tools used by traders and investors around the world.
 With Developer Mode enabled, you can unlock experimental features, early releases, and advanced functionality for research and testing.
 
 The platform supports crypto, stocks, forex, and futures markets, helping you analyze charts, monitor market structure, and explore new tools in one place.
 
-<div align="center"> <img src="https://chartsgpt.com/wlk.png"> </div>
-Quick Start
+<div align="center"> <img src="https://static.tradingview.com/static/bundles/multi-monitors-tablet.5a5a0eb00b0ffad02a54.svg"> </div>
+
+## Quick Start
 
 Using PowerShell is the recommended way to enable TradingView developer features. It installs the required components and completes the setup in one step.
 
